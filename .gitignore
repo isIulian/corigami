@@ -1,0 +1,11 @@
+out
+dist
+node_modules
+.vscode-test/
+*.vsix
+
+# custom ignore
+#
+vsc-extension-quickstart.md
+# spell checker support files
+*.dict
